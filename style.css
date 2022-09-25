@@ -61,10 +61,12 @@
     width: 30%;
 }
 #1{
-    margin:10px 10px 10px 10px; 
-    float:right;
+    width: 30%;
+    margin: 10px 10px 10px 10px; 
+    float: right;
 }
 #2{
-    margin:10px 10px 0px 0px";
-    align="left";
+    width: 30%;
+    margin: 10px 10px 0px 0px";
+    float: left;
 }

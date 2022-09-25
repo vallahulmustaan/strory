@@ -60,3 +60,11 @@
 .beaut{
     width: 50%;
 }
+#1{
+    margin:10px 10px 10px 10px; 
+    float:right;
+}
+#2{
+    margin:10px 10px 0px 0px";
+    float:left;
+}
